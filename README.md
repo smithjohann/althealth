@@ -1,5 +1,5 @@
 # althealth
-AltHealth is a web-based application which provides a graphical user interface (GUI) to manage a databased based on the small business operations; such as processing and storing client (i.e. patients and/or consumers) information, supplement and supplier information, appointments and bookings, as well as statistics in the form of management information system (MIS) reports for the owner of the business.
+AltHealth is a web-based application which provides a graphical user interface (GUI) to manage a database based on the small business operations; such as processing and storing client (i.e. patients and/or consumers) information, supplement and supplier information, appointments and bookings, as well as statistics in the form of management information system (MIS) reports for the owner of the business.
 
 In order to access the system, kindly unzip the AltHealth.zip folder which will produce all the data files of the system in the htdocs folder. 
 Alternatively, you may deploy the htodcs folder by replacing your current htdocs folder (should you make use of XAMPP). 
